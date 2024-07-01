@@ -1,5 +1,5 @@
-include <gridfinity-rebuilt-openscad/gridfinity-rebuilt-bins.scad>
-include <gridfinity-rebuilt-openscad/generic-helpers.scad>
+include <../gridfinity-rebuilt-openscad/gridfinity-rebuilt-bins.scad>
+include <../gridfinity-rebuilt-openscad/generic-helpers.scad>
 
 gridx=1;
 gridy=1;

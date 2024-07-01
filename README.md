@@ -5,6 +5,7 @@
 | Title     | Screenshot |
 | ---      | ---       |
 | Batteries - AA | ![](models/batteries-aa.png) |
+| Batteries - 9V | ![](models/batteries-9v.png) |
 
 ## Dependencies
 My [fork](git@github.com:benjiao/gridfinity-rebuilt-openscad.git) of [Gridfinity Rebuilt in OpenSCAD by kennetek](https://github.com/kennetek/gridfinity-rebuilt-openscad) is included in this repo as a submodule. To install, run:
