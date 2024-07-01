@@ -1,5 +1,5 @@
 # Custom Gridfinity Bins by Benjie
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by-sa]
 
 ## Models
 | Title     | Screenshot |
@@ -14,10 +14,10 @@ git submodule update --init --recursive
 
 ## License
 All work under this collection is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by], unless noted otherwise.
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa], unless noted otherwise.
 
 ---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C24WFYS) 
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%20BY%20SA%204.0-lightgrey.svg
