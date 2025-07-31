@@ -1,6 +1,21 @@
 # Custom Gridfinity Bins by Benjie
 [![CC BY 4.0][cc-by-shield]][cc-by-sa]
 
+- [Custom Gridfinity Bins by Benjie](#custom-gridfinity-bins-by-benjie)
+  - [Models](#models)
+    - [Batteries - 9V](#batteries---9v)
+    - [Batteries - AA](#batteries---aa)
+    - [Batteries - Sony NP-FW50](#batteries---sony-np-fw50)
+    - [Charger - Wasasbi Power LCH-DC](#charger---wasasbi-power-lch-dc)
+    - [LED - Ulanzi VL49](#led---ulanzi-vl49)
+    - [Lens - Sigma DC DN](#lens---sigma-dc-dn)
+    - [Macro Adapter - Meike MK-S-AF3B](#macro-adapter---meike-mk-s-af3b)
+    - [Remote - JJC RM DSLR2](#remote---jjc-rm-dslr2)
+    - [Remote - RC-A5](#remote---rc-a5)
+    - [Remote - YN-608](#remote---yn-608)
+  - [Dependencies](#dependencies)
+  - [License](#license)
+
 ## Models
 ### Batteries - 9V
 Holds 4 9V batteries on a 1x2 unit base.
@@ -38,13 +53,20 @@ Holds a single Meike MK-S-AF3B macro adapter.
 
 ![Meike MK-S-AF3B macro adapter](models/macro-adapter-mk-s-af3b.png)
 
-
 ### Remote - JJC RM DSLR2
+Holds a single JJC-RM-DSLR2 remote on a 1x1 unit base.
+
+![JJC RM DSLR2 Remote](models/remote-jjc-rm-dslr2.png)
 
 ### Remote - RC-A5
+Holds a single RC-A5 remote on a 1x1 unit base.
 
-### Remote - YN 608
+![RC-A5 remote](models/remote-rc-a5.png)
 
+### Remote - YN-608
+Holds a single YN-608 remote on a 1x1 unit base.
+
+![YN-608 remote](models/remote-yn608.png)
 
 
 ## Dependencies
