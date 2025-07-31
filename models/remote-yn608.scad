@@ -13,6 +13,6 @@ difference(){
     translate([0,0,6])
     rotate([0,0,45])
     union(){
-        rounded_rectangle(35, 18, 20, 3);
+        rounded_rectangle(37, 18, 20, 3);
     }
 }
