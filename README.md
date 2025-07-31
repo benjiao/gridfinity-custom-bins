@@ -16,6 +16,8 @@
   - [Dependencies](#dependencies)
   - [License](#license)
 
+![Example](photos/macro-adapter-mk-s-af3b.jpg)
+
 ## Models
 ### Batteries - 9V
 Holds 4 9V batteries on a 1x2 unit base.
