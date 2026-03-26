@@ -1,11 +1,15 @@
-use <../../gridfinity-rebuilt-openscad/gridfinity-rebuilt-bins.scad>
+include <../../gridfinity-rebuilt-openscad/gridfinity-rebuilt-bins.scad>
 
 length = 47;
-gridx = 4;
+gridx = 6;
 gridy = 1.5;
+height = 6;
 style_plate = 0;
 
-gridfinityInit(gridx, gridy, height(6), 0, length) {
-    cutEqual(n_divx = 1, n_divy = 1, style_tab = 5, scoop_weight = 1, length=47);
+bin = new_bin([gridx, gridy], fromGridfinityUnits(6));
+
+// Centered custom sized compartment.
+bin_render(bin) {
+    bin_translate(bin, [0.5, 0.5])
+    compartment_cutter([10, 20,cgs().z]);
 }
-gridfinityBase(gridx, gridy, length, 0, 0, 1);
